@@ -1,4 +1,9 @@
 {
   "seenDates": [],
-  "lastCheckedAt": null
+  "lastCheckedAt": "2026-09-01T08:30:16.545Z",
+  "lastObservation": {
+    "theaterFound": false,
+    "imaxFound": false,
+    "detectedDates": []
+  }
 }
