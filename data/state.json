@@ -1,7 +1,9 @@
 {
   "seenDates": [],
-  "lastCheckedAt": "2026-09-01T08:30:16.545Z",
+  "lastCheckedAt": "2026-09-01T08:51:40.772Z",
   "lastObservation": {
+    "url": "https://cgv.co.kr/cnm/movieBook/movie",
+    "pageTitle": "",
     "theaterFound": false,
     "imaxFound": false,
     "detectedDates": []
