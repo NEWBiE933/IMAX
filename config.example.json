@@ -1,0 +1,24 @@
+{
+  "theaterName": "용산아이파크몰",
+  "formatKeyword": "IMAX",
+  "bookingUrl": "https://cgv.co.kr/",
+  "knownDateWindowDays": 21,
+  "bookingPreferences": {
+    "partySize": 2,
+    "time": {
+      "weekend": {
+        "excludeStartHours": [23]
+      },
+      "weekday": {
+        "preferredStartFrom": "20:00",
+        "preferredStartBefore": "23:00"
+      }
+    },
+    "seat": {
+      "preferredRows": ["K"],
+      "fallbackRows": ["J", "L", "I", "M"],
+      "preferContiguous": true,
+      "preferCenter": true
+    }
+  }
+}
